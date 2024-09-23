@@ -17,6 +17,7 @@ function work() {
        critical development work, eliminate toil, and deploy changes with ease
       </p>
 
+      
     </div>    
               <ul className="space-y-6">
                 <li className="flex items-start"><FaCheckCircle className="mr-3 text-purple-600" style={{ width: '20px', height: '20px' }} />
