@@ -1,15 +1,13 @@
-
+import Work from "./Components/work"
 
 function App() {
 
   return (
-    <>
-     <div>
-         
-     </div>
-
-    </>
-  )
+    <div className="App">
+      <Work /> 
+      <FaCheckCircle />
+    </div>
+  );
 }
 
 export default App
