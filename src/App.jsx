@@ -1,14 +1,12 @@
-
+import CTA from "./components/CTA"
 
 function App() {
 
   return (
     <>
-     <div>
-         
-         <h1>ckcznczcz</h1>
-     </div>
 
+     <CTA/>
+     
     </>
   )
 }
